@@ -1,4 +1,3 @@
-# #E0324009 - Eshan M
 import os
 import torch
 import torch.nn as nn
